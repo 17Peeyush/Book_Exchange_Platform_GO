@@ -1,0 +1,2 @@
+GET http://localhost:8080/allevents
+Authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRlc3RAZ21haWwuY29tIiwiZXhwIjoxNzA2OTcyNDg1LCJ1c2VySWQiOjF9.CokT5wjg0uRNP8DTB7FnRIkreoQX54INSYv0sPIdwjE
